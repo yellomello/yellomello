@@ -2,7 +2,7 @@
 
 
 
-[https://giphy.com/gifs/ilegrabr-fryY00CO4xCz4uJuDQ](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDZ5aW1jd296cmIxbDMwaHNqdzJkbnFxMzNoa20wNWNyc282ZTlxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fryY00CO4xCz4uJuDQ/giphy-downsized-large.gif)
+![Connect](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDZ5aW1jd296cmIxbDMwaHNqdzJkbnFxMzNoa20wNWNyc282ZTlxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fryY00CO4xCz4uJuDQ/giphy-downsized-large.gif)
 
 ## 🚀 About Me
 
