@@ -18,5 +18,5 @@ Beyond the world of data, I find solace in playing the piano and guitar 🎹🎸
 
 ## 📫 How to Reach Me
 
-Feel free to connect with me on [LinkedIn](#) or by [Email](mailto:your.email@example.com). I'm always excited to discuss new opportunities, projects, or technologies!
+Feel free to connect with me on [LinkedIn]([url](https://www.linkedin.com/in/marchanselthomas/)). I'm always excited to discuss new opportunities, projects, or technologies!
 
