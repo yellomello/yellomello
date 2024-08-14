@@ -1,9 +1,6 @@
 # Hello World, I'm Marc 👋
 
-
-
-![Connect](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDZ5aW1jd296cmIxbDMwaHNqdzJkbnFxMzNoa20wNWNyc282ZTlxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fryY00CO4xCz4uJuDQ/giphy-downsized-large.gif)
-
+<iframe src="https://giphy.com/embed/fryY00CO4xCz4uJuDQ" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ilegrabr-fryY00CO4xCz4uJuDQ">via GIPHY</a></p>
 ## 🚀 About Me
 
 I’m Marc Thomas, a life-long learner. I’m enthusiastic about all things Big Data or as I like to put it ‘I’m a Big Big Data Enthusiast‘. I find joy in piecing together intricate details to comprehend the big picture.
