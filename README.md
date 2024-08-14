@@ -1,6 +1,8 @@
 # Hello World, I'm Marc 👋
 
+<iframe src="https://giphy.com/embed/fryY00CO4xCz4uJuDQ" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ilegrabr-fryY00CO4xCz4uJuDQ">via GIPHY</a></p>
 
+https://giphy.com/gifs/ilegrabr-fryY00CO4xCz4uJuDQ
 
 ## 🚀 About Me
 
@@ -22,4 +24,3 @@ Beyond the world of data, I find solace in playing the piano and guitar 🎹🎸
 
 Feel free to connect with me on [LinkedIn](#) or by [Email](mailto:your.email@example.com). I'm always excited to discuss new opportunities, projects, or technologies!
 
-![Connect](https://media.giphy.com/media/3oKIPuIum6KSM7xuQS/giphy.gif)
