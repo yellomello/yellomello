@@ -14,6 +14,7 @@ Beyond the world of data, I find solace in playing the piano 🎹 and guitar �
 - **Python** 🐍
 - **SQL** 🗃️
 - **JavaScript** 💻
+- **C++**
 
 
 
